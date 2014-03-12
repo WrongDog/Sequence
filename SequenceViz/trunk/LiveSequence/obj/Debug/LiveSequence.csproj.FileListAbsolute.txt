@@ -1,0 +1,10 @@
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\output\LiveSequence.exe.config
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\output\LiveSequence.exe
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\output\LiveSequence.pdb
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.csprojResolveAssemblyReference.cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.ConsoleView.resources
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.MainForm.resources
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.Properties.Resources.resources
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.csproj.GenerateResource.Cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.exe
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence\obj\Debug\LiveSequence.pdb

@@ -1,0 +1,7 @@
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\output\Reflector.LiveSequence.dll
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\output\Reflector.LiveSequence.pdb
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Reflector\obj\Debug\LiveSequence.Reflector.csprojResolveAssemblyReference.cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Reflector\obj\Debug\Reflector.Sequence.DiagramViewerContainer.resources
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Reflector\obj\Debug\LiveSequence.Reflector.csproj.GenerateResource.Cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Reflector\obj\Debug\Reflector.LiveSequence.dll
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Reflector\obj\Debug\Reflector.LiveSequence.pdb

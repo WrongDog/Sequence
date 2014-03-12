@@ -1,0 +1,14 @@
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\bin\Debug\LiveSequence.Common.dll
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\bin\Debug\LiveSequence.Common.pdb
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\bin\Debug\log4net.dll
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common.csprojResolveAssemblyReference.cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\Graphics\DiagramViewer.g.cs
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common_MarkupCompile.cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common_MarkupCompile.lref
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\Graphics\DiagramViewer.baml
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common.g.resources
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common.Properties.Resources.resources
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common.csproj.GenerateResource.Cache
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common.dll
+C:\Users\youy\Downloads\sequenceviz-69709\SequenceViz\trunk\LiveSequence.Common\obj\Debug\LiveSequence.Common.pdb

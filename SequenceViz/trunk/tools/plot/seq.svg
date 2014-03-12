@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<svg width="10in" height="10in" viewBox="0 0 1 1" preserveAspectRatio="none">
+<title>SVG drawing</title>
+<desc>This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+<rect x="0" y="0" width="1" height="1" style="stroke:none;fill:white;"/>
+<g transform="translate(0.49375,0.39687) scale(1,-1) scale(0.125) " xml:space="preserve" style="stroke:black;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.433;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill:none;fill-rule:even-odd;fill-opacity:1;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size-adjust:none;letter-spacing:normal;word-spacing:normal;text-anchor:start;">
+<rect x="-0.95" y="-0.6" width="1.9" height="0.3" style="stroke-width:0.0094118;"/>
+<text transform="translate(0,-0.45) scale(1,-1) " style="font-family:'Helvetica',sans-serif;font-size:0.13889;text-anchor:middle;baseline-identifier:centerline;stroke:none;fill:black;">h:HierarchyExplorer</text>
+<line x1="-0.85" y1="-0.52" x2="0.85" y2="-0.52" style="stroke-width:0.0094118;"/>
+<line x1="0" y1="-0.6" x2="0" y2="-1.65" style="stroke-width:0.0094118;stroke-dasharray:0.05 0.05;"/>
+</g>
+</svg>
